@@ -2,6 +2,7 @@
 You can find the tutorial here https://www.instructables.com/Project-Midbar/
 Midbar utilizes a strong encryption algorithm (AES-256 + Serpent + AES-256) combined with a sophisticated embedded database (SQLite3) to keep your personal data secure.
 </br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_180630.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_104308.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_104652.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_110040.jpg)
@@ -29,5 +30,5 @@ Midbar utilizes a strong encryption algorithm (AES-256 + Serpent + AES-256) comb
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_135014.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_135019.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_135742.jpg)
-![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_180630.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Pictures/IMG_20220501_180745.jpg)
+All credentials are fictional (just in case).

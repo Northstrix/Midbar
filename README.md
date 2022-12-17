@@ -1,7 +1,5 @@
 ESP8266 version of Midbar utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm alongside the ESP8266's built-in memory to store eight passwords and four credit cards in the encrypted form. It also utilizes the HMAC SHA-256 to verify the integrity of the stored logins, which means that if at least one bit of an encrypted login gets flipped, Midbar will inform you about it by displaying the following alert: "Integrity Verification Failed!!!"
 
-ESP32 version of Midbar is a password, credit card, note, and phone number vault that utilizes a strong encryption algorithm (AES-256 + Serpent + AES-256) combined with a sophisticated embedded database (SQLite3) to keep your personal data safe.
-
 Midbar V2.0 (ESP32 version) is a password vault, credit card vault, note vault, phone number vault, data encrypter/decrypter, data hasher, SQLite3 host, and one-way secure communication channel - all in one!
 When it comes to the vault capability - Midbar V2.0 utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm with an integrity verification feature alongside the SQLite3 serverless embedded relational database management system to keep your data safe and organized.
 

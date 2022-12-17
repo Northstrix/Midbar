@@ -10,6 +10,8 @@ You can find the tutorial here:
 ESP8266 Version: https://www.instructables.com/Midbar-ESP8266-Version/
 </br>
 ESP32 Version: https://www.instructables.com/Project-Midbar/
+</br>
+ESP32 Version 2.0: https://www.instructables.com/Midbar-V20/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.0/Photos/IMG_20221217_134728.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.0/Photos/IMG_20221217_130321.jpg)

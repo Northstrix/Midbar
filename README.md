@@ -13,6 +13,10 @@ ESP32 Version: https://www.instructables.com/Project-Midbar/
 </br>
 ESP32 Version 2.0: https://www.instructables.com/Midbar-V20/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.5/Pictures/IMG_20230101_145716_hdr_edit.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.5/Pictures/IMG_20230101_170120.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.5/Pictures/IMG_20230101_171912.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.5/Pictures/Vault%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.0/Photos/IMG_20221217_134728.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.0/Photos/IMG_20221217_130321.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V2.0/Vault%20Circuit%20Diagram.png)

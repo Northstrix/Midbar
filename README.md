@@ -3,6 +3,8 @@ ESP8266 version of Midbar utilizes the 3DES + AES + Blowfish + Serpent encryptio
 Midbar V2.0 & V2.5 (ESP32 version) is a password vault, credit card vault, note vault, phone number vault, data encrypter/decrypter, data hasher, SQLite3 host, and one-way secure communication channel - all in one!
 When it comes to the vault capability - Midbar V2.0 utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm with an integrity verification feature alongside the SQLite3 serverless embedded relational database management system to keep your data safe and organized.
 
+Midbar V1.0 (Raspberry Pi Pico Version) is a password vault, credit card vault, note vault, phone number vault, and data encrypter/decrypter - all in one. It utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm in CBC mode with an integrity verification feature alongside the LittleFS to keep your data safe and organized.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial here:
@@ -14,6 +16,8 @@ ESP32 Version: https://www.instructables.com/Project-Midbar/
 ESP32 Version 2.0: https://www.instructables.com/Midbar-V20/
 </br>
 ESP32 Version 2.5: https://www.instructables.com/Midbar-V25/
+</br>
+Raspberry Pi Pico V1.0: https://www.instructables.com/Midbar-Raspberry-Pi-Pico-Version/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V1.0/Pictures/IMG_20230111_112857_hdr.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)

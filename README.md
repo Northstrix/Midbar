@@ -27,7 +27,7 @@ ESP32 Version 3.0: https://www.instructables.com/Midbar-V30/
 </br>
 ESP32 Version 4.0: https://www.instructables.com/Midbar-V40/
 </br>
-Midbar (Raspberry Pi Pico Version) V2.0: https://www.instructables.com/Midbar-Raspberry-Pi-Pico-Version-V20/
+Raspberry Pi Pico Version V2.0: https://www.instructables.com/Midbar-Raspberry-Pi-Pico-Version-V20/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V4.0/Pictures/IMG_20230208_154744.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V4.0/Pictures/Vault%20Circuit%20Diagram.png)

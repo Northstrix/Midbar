@@ -7,6 +7,8 @@ Midbar V1.0 (Raspberry Pi Pico Version) is a password vault, credit card vault, 
 
 Midbar V4.0 is an attempt to combine the best aspects of Midbar and Cipherbox.
 
+Midbar (Raspberry Pi Pico Version) V2.0 is the Raspberry Pi Pico version of the Midbar V4.0.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial here:
@@ -27,8 +29,9 @@ ESP32 Version 4.0: https://www.instructables.com/Midbar-V40/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V4.0/Pictures/IMG_20230208_154744.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V4.0/Pictures/Vault%20Circuit%20Diagram.png)
+![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V2.0/Pictures/IMG_20230324_151103.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V4.0/Pictures/Receiver%20Circuit%20Diagram.png)
-
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V3.0/Pictures/IMG_20230121_112045_hdr.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V3.0/Pictures/Vault%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V1.0/Pictures/IMG_20230111_112857_hdr.jpg)

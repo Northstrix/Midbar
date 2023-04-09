@@ -28,6 +28,8 @@ ESP32 Version 3.0: https://www.instructables.com/Midbar-V30/
 ESP32 Version 4.0: https://www.instructables.com/Midbar-V40/
 </br>
 Raspberry Pi Pico Version V2.0: https://www.instructables.com/Midbar-Raspberry-Pi-Pico-Version-V20/
+</br>
+ESP32 Version 5.0: https://www.instructables.com/Midbar-V50/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V2.0/Pictures/IMG_20230324_151103.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)

@@ -11,6 +11,8 @@ Midbar (Raspberry Pi Pico Version) V2.0 is the Raspberry Pi Pico version of the 
 
 Midbar V5.0 is the first version of Midbar that stores user data on an external SD card.
 
+Midbar (STM32F401CCU6 Version) is the STM32F401CCU6 version of the Midbar V5.0.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial here:
@@ -33,6 +35,8 @@ Raspberry Pi Pico Version V2.0: https://www.instructables.com/Midbar-Raspberry-P
 </br>
 ESP32 Version 5.0: https://www.instructables.com/Midbar-V50/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_Version/V1.0/Pictures/IMG_20230414_141811.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V5.0/Pictures/IMG_20230409_141054.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V5.0/Pictures/Vault%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Raspberry_Pi_Pico_Version/V2.0/Pictures/IMG_20230324_151103.jpg)

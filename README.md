@@ -38,6 +38,8 @@ Raspberry Pi Pico Version V2.0: https://www.instructables.com/Midbar-Raspberry-P
 ESP32 Version 5.0: https://www.instructables.com/Midbar-V50/
 </br>
 STM32F401CCU6 Version V1.0: https://www.instructables.com/Midbar-STM32F401CCU6-Version/
+</br>
+STM32F401CCU6 + Arduino Uno Version V1.0: https://www.instructables.com/Midbar-STM32F401CCU6-Arduino-Uno-Version/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230504_145722.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_and_Arduino_Uno_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)

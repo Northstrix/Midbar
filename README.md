@@ -39,6 +39,8 @@ ESP32 Version 5.0: https://www.instructables.com/Midbar-V50/
 </br>
 STM32F401CCU6 Version V1.0: https://www.instructables.com/Midbar-STM32F401CCU6-Version/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230504_145722.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_and_Arduino_Uno_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_Version/V1.0/Pictures/IMG_20230414_141811.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F401CCU6_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V5.0/Pictures/IMG_20230409_141054.jpg)

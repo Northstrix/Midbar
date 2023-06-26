@@ -40,6 +40,8 @@ ESP32 Version 5.0: https://www.instructables.com/Midbar-V50/
 STM32F401CCU6 Version V1.0: https://www.instructables.com/Midbar-STM32F401CCU6-Version/
 </br>
 STM32F401CCU6 + Arduino Uno Version V1.0: https://www.instructables.com/Midbar-STM32F401CCU6-Arduino-Uno-Version/
+</br>
+Teensy 4.1 Version: https://www.instructables.com/Midbar-Teensy-41-Version/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V1.0/Pictures/IMG_20230626_161557.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)

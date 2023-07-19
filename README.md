@@ -17,6 +17,8 @@ Midbar (STM32F401CCU6 + Arduino Uno Version) is an attempt to combine the best a
 
 Midbar (Teensy 4.1 Version) is the Teensy 4.1 version of the Midbar V5.0 that supports the USB keyboard.
 
+Midbar (Teensy 4.1 Version) V2.0 is the first version of Midbar that can function as a USB keyboard.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial here:

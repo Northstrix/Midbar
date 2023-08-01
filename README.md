@@ -51,6 +51,8 @@ Teensy 4.1 Version: https://www.instructables.com/Midbar-Teensy-41-Version/
 </br>
 Teensy 4.1 Version V2.0: https://www.instructables.com/Midbar-Teensy-41-Version-V20/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN%20Version/V1.0/Pictures/IMG_20230801_161613_hdr.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN%20Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V2.0/Pictures/IMG_20230719_184125.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V1.0/Pictures/IMG_20230626_161557.jpg)

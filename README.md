@@ -21,6 +21,8 @@ Midbar (Teensy 4.1 Version) V2.0 is the first version of Midbar that can functio
 
 Midbar (RTL8720DN Version) is a bit odd, but still a fully functional version of Midbar.
 
+Midbar (RTL8720DN + Arduino Uno Version) is the first version of Midbar that can handle the Nintendo 64 controller.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial here:

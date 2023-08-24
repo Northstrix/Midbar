@@ -58,7 +58,7 @@ RTL8720DN Version: https://www.instructables.com/Midbar-RTL8720DN-Version/
 RTL8720DN + Arduino Uno Version: https://www.instructables.com/Midbar-RTL8720DN-Arduino-Uno-Version/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230821_174708.jpg)
-
+![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN_and_Arduino_Uno_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN%20Version/V1.0/Pictures/IMG_20230801_161613_hdr.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN%20Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V2.0/Pictures/IMG_20230719_184125.jpg)

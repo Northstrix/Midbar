@@ -58,6 +58,8 @@ Teensy 4.1 Version V2.0: https://www.instructables.com/Midbar-Teensy-41-Version-
 RTL8720DN Version: https://www.instructables.com/Midbar-RTL8720DN-Version/
 </br>
 RTL8720DN + Arduino Uno Version: https://www.instructables.com/Midbar-RTL8720DN-Arduino-Uno-Version/
+</br>
+Midbar (ESP8266 Version) V2.0: https://www.instructables.com/Midbar-ESP8266-Version-V20/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/IMG_20230830_133315.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)

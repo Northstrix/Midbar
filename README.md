@@ -29,9 +29,9 @@ The purpose of Midbar is to significantly increase the cost of unauthorized acce
 
 You can find the tutorial for Midbar here:
 </br>
-ESP8266 Version: https://www.instructables.com/Midbar-ESP8266-Version/
-</br>
 ESP32 Version: https://www.instructables.com/Project-Midbar/
+</br>
+ESP8266 Version: https://www.instructables.com/Midbar-ESP8266-Version/
 </br>
 ESP32 Version 2.0: https://www.instructables.com/Midbar-V20/
 </br>

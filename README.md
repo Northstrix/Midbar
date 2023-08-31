@@ -27,7 +27,7 @@ Midbar (ESP8266 Version) V2.0 is the first version of Midbar that can handle the
 
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
-You can find the tutorial here:
+You can find the tutorial for Midbar here:
 </br>
 ESP8266 Version: https://www.instructables.com/Midbar-ESP8266-Version/
 </br>
@@ -59,7 +59,7 @@ RTL8720DN Version: https://www.instructables.com/Midbar-RTL8720DN-Version/
 </br>
 RTL8720DN + Arduino Uno Version: https://www.instructables.com/Midbar-RTL8720DN-Arduino-Uno-Version/
 </br>
-Midbar (ESP8266 Version) V2.0: https://www.instructables.com/Midbar-ESP8266-Version-V20/
+ESP8266 Version V2.0: https://www.instructables.com/Midbar-ESP8266-Version-V20/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/IMG_20230830_133315.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)

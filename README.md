@@ -61,6 +61,8 @@ RTL8720DN + Arduino Uno Version: https://www.instructables.com/Midbar-RTL8720DN-
 </br>
 ESP8266 Version V2.0: https://www.instructables.com/Midbar-ESP8266-Version-V20/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V1.0/Pictures/IMG_20230908_172638.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/IMG_20230830_133315.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/RTL8720DN_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230821_174708.jpg)

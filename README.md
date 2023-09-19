@@ -65,6 +65,8 @@ ESP8266 Version V2.0: https://www.instructables.com/Midbar-ESP8266-Version-V20/
 </br>
 STM32F407VET6 Version: https://www.instructables.com/Midbar-STM32F407VET6-Version/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230915_165315_hdr.jpg)
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6_and_Arduino_Uno_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V1.0/Pictures/IMG_20230908_172638.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP8266%20Version/V2.0/Pictures/IMG_20230830_133315.jpg)

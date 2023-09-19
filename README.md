@@ -27,6 +27,8 @@ Midbar (ESP8266 Version) V2.0 is the first version of Midbar that can handle the
 
 Midbar (STM32F407VET6 Version) is the first version of Midbar that can simultaneously handle the PS2 Keyboard and the Nintendo 64 Controller.
 
+Midbar (STM32F407VET6 + Arduino Uno Version) is an RFID-lockable version of Midbar (STM32F407VET6 Version).
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial for Midbar here:

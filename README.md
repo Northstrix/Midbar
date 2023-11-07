@@ -6,11 +6,11 @@ In my opinion, the only way to keep your data private is to raise the cost of un
 
 To raise the cost of unauthorized access to your data - I've developed Midbar.
 
-Midbar is a hardware password vault. Unlike the hardware authentication devices, It can store your login credentials, credit card information, notes, and phone numbers. Midbar encrypts your data and requires a master password and, in some cases, four additional RFID cards to access it. With Midbar, you don't have to worry about memorizing the login credentials and credit card information for the services you use. It does that for you.
+Midbar is a hardware password vault. Unlike hardware authentication devices, it can store your login credentials, credit card information, notes, and phone numbers. Midbar encrypts your data and requires a master password and, in some cases, four additional RFID cards to access it. With Midbar, you don't have to worry about memorizing the login credentials and credit card information for the services you use. It does that for you.
 
 Compared to software vaults, Midbar provides more security because it does not have thousands of other processes running alongside it, significantly contributing to making it almost invulnerable to side-channel attacks. Additionally, Midbar utilizes sophisticated integrity verification and superencryption features.
 
-The integrity verification feature ensures that any corruption or unauthorized modification of your data will not go unnoticed. Superencryption is a safeguard that would be useful in case a highly improbable event renders one of the major encryption algorithms (AES or Serpent) insecure. Even after such an event, your data would still be encrypted with one secure and two "somewhat semi-secure" encryption algorithms, providing an extra layer of protection.
+The integrity verification feature ensures that any corruption or unauthorized modification of your data will not go unnoticed. Superencryption is a safeguard that would be useful in case a highly improbable black swan event renders one of the major encryption algorithms (AES or Serpent) insecure. Even after such an event, your data would still be encrypted with one secure and two "somewhat semi-secure" encryption algorithms, providing an extra layer of protection.
 
 </br></br></br>
 

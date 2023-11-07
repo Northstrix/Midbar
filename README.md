@@ -87,6 +87,8 @@ STM32F407VET6 Version: https://www.instructables.com/Midbar-STM32F407VET6-Versio
 </br>
 STM32F407VET6 + Arduino Uno Version V1.0: https://www.instructables.com/Midbar-STM32F407VET6-Arduino-Uno-Version/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/IMG_20231105_151451.jpg?raw=true)
+![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230915_165315_hdr.jpg)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6_and_Arduino_Uno_Version/V1.0/Pictures/Midbar%20Circuit%20Diagram.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V1.0/Pictures/IMG_20230908_172638.jpg)

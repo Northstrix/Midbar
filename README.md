@@ -6,7 +6,7 @@ In my opinion, the only way to keep your data private is to raise the cost of un
 
 To raise the cost of unauthorized access to your data - I've developed Midbar.
 
-Midbar is a hardware password vault. Unlike hardware authentication devices, it can store your login credentials, credit card information, notes, and phone numbers. Midbar encrypts your data and requires a master password and, in some cases, four additional RFID cards to access it. With Midbar, you don't have to worry about memorizing the login credentials and credit card information for the services you use. It does that for you.
+Midbar is a hardware data vault. Unlike hardware authentication devices, it can store your login credentials, credit card information, notes, and phone numbers. Midbar encrypts your data and requires a master password and, in some cases, four additional RFID cards to access it. With Midbar, you don't have to worry about memorizing the login credentials and credit card information for the services you use. It does that for you.
 
 Compared to software vaults, Midbar provides more security because it does not have thousands of other processes running alongside it, significantly contributing to making it almost invulnerable to side-channel attacks. Additionally, Midbar utilizes sophisticated integrity verification and superencryption features.
 
@@ -44,6 +44,8 @@ Midbar (ESP8266 Version) V2.0 is the first version of Midbar that can handle the
 Midbar (STM32F407VET6 Version) is the first version of Midbar that can simultaneously handle the PS2 Keyboard and the Nintendo 64 Controller.
 
 Midbar (STM32F407VET6 + Arduino Uno Version) is an RFID-lockable version of Midbar (STM32F407VET6 Version).
+
+Midbar (STM32F407VET6 Version) V2.0 is the first version of Midbar that can simultaneously handle the PS2 Keyboard and the Nintendo Wii Nunchuk.
 
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 

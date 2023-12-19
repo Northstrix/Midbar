@@ -47,6 +47,8 @@ Midbar (STM32F407VET6 + Arduino Uno Version) is an RFID-lockable version of Midb
 
 Midbar (STM32F407VET6 Version) V2.0 is the first version of Midbar that can simultaneously handle the PS2 Keyboard and the Nintendo Wii Nunchuk.
 
+Midbar V6.0 is the first ESP32-based version of Midbar that can act as if it were a USB keyboard.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial for Midbar here:
@@ -88,6 +90,8 @@ STM32F407VET6 Version: https://www.instructables.com/Midbar-STM32F407VET6-Versio
 STM32F407VET6 + Arduino Uno Version V1.0: https://www.instructables.com/Midbar-STM32F407VET6-Arduino-Uno-Version/
 </br>
 STM32F407VET6 Version V2.0: https://www.instructables.com/Midbar-STM32F407VET6-Version-V20/
+</br>
+ESP32 Version 6.0: https://www.instructables.com/Midbar-V60/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/IMG_20231105_151451.jpg?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png?raw=true)

@@ -93,6 +93,8 @@ STM32F407VET6 Version V2.0: https://www.instructables.com/Midbar-STM32F407VET6-V
 </br>
 ESP32 Version 6.0: https://www.instructables.com/Midbar-V60/
 </br></br>
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V6.0/Pictures/IMG_20231219_155759_hdr.jpg?raw=true)
+![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V6.0/Pictures/Vault%20Circuit%20Diagram.png?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/IMG_20231105_151451.jpg?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/Midbar%20Circuit%20Diagram.png?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6_and_Arduino_Uno_Version/V1.0/Pictures/IMG_20230915_165315_hdr.jpg)

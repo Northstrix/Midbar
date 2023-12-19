@@ -14,12 +14,12 @@ The integrity verification feature ensures that any corruption or unauthorized m
 
 </br></br></br>
 
-ESP8266 version of Midbar utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm alongside the ESP8266's built-in memory to store eight passwords and four credit cards in the encrypted form. It also utilizes the HMAC SHA-256 to verify the integrity of the stored logins, which means that if at least one bit of an encrypted login gets flipped, Midbar will inform you about it by displaying the following alert: "Integrity Verification Failed!!!"
+Midbar (ESP8266 Version) utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm alongside the ESP8266's built-in memory to store eight passwords and four credit cards in the encrypted form. It also utilizes the HMAC SHA-256 to verify the integrity of the stored logins, which means that if at least one bit of an encrypted login gets flipped, Midbar will inform you about it by displaying the following alert: "Integrity Verification Failed!!!"
 
 Midbar V2.0 & V2.5 (ESP32 version) is a password vault, credit card vault, note vault, phone number vault, data encrypter/decrypter, data hasher, SQLite3 host, and one-way secure communication channel - all in one!
 When it comes to the vault capability - Midbar V2.0 utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm with an integrity verification feature alongside the SQLite3 serverless embedded relational database management system to keep your data safe and organized.
 
-Midbar V1.0 (Raspberry Pi Pico Version) is a password vault, credit card vault, note vault, phone number vault, and data encrypter/decrypter - all in one. It utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm in CBC mode with an integrity verification feature alongside the LittleFS to keep your data safe and organized.
+Midbar (Raspberry Pi Pico Version) is a password vault, credit card vault, note vault, phone number vault, and data encrypter/decrypter - all in one. It utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm in CBC mode with an integrity verification feature alongside the LittleFS to keep your data safe and organized.
 
 Midbar V4.0 is an attempt to combine the best aspects of Midbar and Cipherbox.
 

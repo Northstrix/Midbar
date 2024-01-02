@@ -49,6 +49,8 @@ Midbar (STM32F407VET6 Version) V2.0 is the first version of Midbar that can simu
 
 Midbar V6.0 is the first ESP32-based version of Midbar that can act as if it were a USB keyboard.
 
+Midbar (Teensy 4.1 Version) V3.0 is the first version of Midbar that enables you to read the encrypted books.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial for Midbar here:

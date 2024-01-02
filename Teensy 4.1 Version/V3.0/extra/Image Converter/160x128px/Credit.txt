@@ -1,0 +1,2 @@
+Based on the work of Zak Kemble:
+https://blog.zakkemble.net/lcd-image-viewer/

@@ -1,0 +1,44 @@
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe.config
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\bin\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.AssemblyReference.cache
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Form1.resources
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Properties.Resources.resources
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.GenerateResource.cache
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\serial\host\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe.config
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\bin\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.AssemblyReference.cache
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Form1.resources
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Properties.Resources.resources
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.GenerateResource.cache
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Digital Photo Frame\Software_for_PC\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe.config
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\bin\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.AssemblyReference.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Form1.resources
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Properties.Resources.resources
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.GenerateResource.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe.config
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\bin\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\bin\Debug\LCDImageUploader.pdb
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.AssemblyReference.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.SuggestedBindingRedirects.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Form1.resources
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.Properties.Resources.resources
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.GenerateResource.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.exe
+C:\Users\ok\Documents\Arduino\Midbar\Teensy 4.1 Version\V3.0\extra\Image Converter\160x88px\src\LCDImageUploader\obj\x86\Debug\LCDImageUploader.pdb

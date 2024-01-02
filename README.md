@@ -94,6 +94,8 @@ STM32F407VET6 + Arduino Uno Version V1.0: https://www.instructables.com/Midbar-S
 STM32F407VET6 Version V2.0: https://www.instructables.com/Midbar-STM32F407VET6-Version-V20/
 </br>
 ESP32 Version 6.0: https://www.instructables.com/Midbar-V60/
+</br>
+Teensy 4.1 Version V3.0: https://www.instructables.com/DIY-Hardware-Data-Vault-With-Teensy-41/
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V3.0/Pictures/IMG_20240101_144229_hdr.jpg?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V3.0/Pictures/Midbar%20Circuit%20Diagram.png)

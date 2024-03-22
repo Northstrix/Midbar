@@ -12,7 +12,7 @@ Compared to software vaults, Midbar provides more security because it does not h
 
 The integrity verification feature ensures that any corruption or unauthorized modification of your data will not go unnoticed. Superencryption is a safeguard that would be useful in case a highly improbable black swan event renders one of the major encryption algorithms (AES or Serpent) insecure. Even after such an event, your data would still be encrypted with one secure and two "somewhat semi-secure" encryption algorithms, providing an extra layer of protection.
 
-</br></br></br>
+</br></br>
 
 Midbar (ESP8266 Version) utilizes the 3DES + AES + Blowfish + Serpent encryption algorithm alongside the ESP8266's built-in memory to store eight passwords and four credit cards in the encrypted form. It also utilizes the HMAC SHA-256 to verify the integrity of the stored logins, which means that if at least one bit of an encrypted login gets flipped, Midbar will inform you about it by displaying the following alert: "Integrity Verification Failed!!!"
 

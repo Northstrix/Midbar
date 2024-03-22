@@ -51,6 +51,8 @@ Midbar V6.0 is the first ESP32-based version of Midbar that can act as if it wer
 
 Midbar (Teensy 4.1 Version) V3.0 is the first version of Midbar that enables you to read the encrypted books.
 
+Midbar (Teensy 4.1 Version) V3.1 is the Midbar (Teensy 4.1 Version) V3.0 with two custom key encryption options instead of one and a compatible desktop data encryption/decryption software.
+
 The purpose of Midbar is to significantly increase the cost of unauthorized access to its user's personal data.
 
 You can find the tutorial for Midbar here:
@@ -99,6 +101,7 @@ Teensy 4.1 Version V3.0: https://www.instructables.com/DIY-Hardware-Data-Vault-W
 </br></br>
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V3.0/Pictures/IMG_20240101_144229_hdr.jpg?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V3.0/Pictures/Midbar%20Circuit%20Diagram.png)
+![image text](https://github.com/Northstrix/Midbar/blob/main/Teensy%204.1%20Version/V3.1/Pictures/AES-256%20CBC%20Encryption%20Software%20For%20Midbar%20Teensy%204.1%20V3.1.png)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V6.0/Pictures/IMG_20231219_155759_hdr.jpg?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/ESP32_Version/V6.0/Pictures/Vault%20Circuit%20Diagram.png?raw=true)
 ![image text](https://github.com/Northstrix/Midbar/blob/main/STM32F407VET6%20Version/V2.0/Pictures/IMG_20231105_151451.jpg?raw=true)

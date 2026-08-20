@@ -1,3 +1,5 @@
+## Attention: The latest ESP32 version of Midbar compiles successfully in Arduino IDE 1.8.9 with ESP32 package v2.0.8. There might be compatibility issues with other versions of the ESP32 package for Arduino IDE.
+
 Advancements in cryptanalysis and hacking techniques are constantly reducing the cost of accessing your data without your authorization, making it easier and more attractive for different sides to get it.
 
 I'm not going to get into details about the motivation of each side and the goals they're trying to achieve by obtaining your data. Instead, I would like to focus on the solution to that problem.
